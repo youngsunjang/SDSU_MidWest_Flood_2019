@@ -1,8 +1,8 @@
 # 📌 How to Cite
 If you use this dataset in your research or project, please cite the following paper:
 
-> **A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery**
-> Youngsun Jang, Dongyoun Kim, Chulwoo Pack, and Kwanghee Won.
+> **A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery**  
+> Youngsun Jang, Dongyoun Kim, Chulwoo Pack, and Kwanghee Won.  
 > *In Proceedings of the 2024 ACM Conference on Research in Adaptive and Convergent Systems (RACS 2024), November 5–8, 2024, Pompei, Italy.*
 
 Note: This paper was presented at the conference, and the official publication in the ACM Digital Library is pending. Once available, please update your citation with the DOI from https://dl.acm.org.
