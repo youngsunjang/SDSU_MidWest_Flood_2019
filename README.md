@@ -8,7 +8,7 @@ This repository provides the **SDSU Midwest Flood Dataset 2019**, a benchmark da
 If you use this dataset in your research or project, please cite the following paper:
 
 > **A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery**  
-> *Youngsun Jang, Dongyoun Kim, Chulwoo Pack, and Kwanghee Won.*
+> *Youngsun Jang, Dongyoun Kim, Chulwoo Pack, and Kwanghee Won*  
 > Presented at the **ACM RACS 2024** conference (Pompei, Italy, November 5–8, 2024)
 
 [Download PDF of the paper](./paper.pdf)  
