@@ -9,7 +9,7 @@ If you use this dataset in your research or project, please cite the following p
 
 > **A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery**  
 > *Youngsun Jang, Dongyoun Kim, Chulwoo Pack, and Kwanghee Won.*
-Presented at the **ACM RACS 2024** conference (Pompei, Italy, November 5–8, 2024)
+> Presented at the **ACM RACS 2024** conference (Pompei, Italy, November 5–8, 2024)
 
 [Download PDF of the paper](./paper.pdf)  
 [arXiv link (to be added)](https://arxiv.org/abs/XXXX.XXXXX)
