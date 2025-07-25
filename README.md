@@ -26,7 +26,7 @@ Please use the following BibTeX entry if you use this dataset or paper in your w
   title={A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery},
   author={Youngsun Jang and Dongyoun Kim and Chulwoo Pack and Kwanghee Won},
   year={2024},
-  note={Presented at ACM RACS 2024. Available at \url{https://github.com/youngsunjang/SDSU_MidWest_Flood_2019} and arXiv},
+  note={Presented at ACM RACS 2024. Available at \url{https://github.com/youngsunjang/SDSU_MidWest_Flood_2019} and \url{https://arxiv.org/abs/XXXX.XXXX}},
 }
 ```
 
