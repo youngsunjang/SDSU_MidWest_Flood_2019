@@ -12,7 +12,7 @@ If you use this dataset in your research or project, please cite the following p
 > Presented at the **ACM RACS 2024** conference (Pompei, Italy, November 5–8, 2024)
 
 [Download PDF of the paper](./Paper.pdf)  
-[arXiv link (to be added)](https://arxiv.org/abs/XXXX.XXXXX)
+[arXiv link (to be added)](https://arxiv.org/abs/2507.23193)
 
 > **Note**: Although this paper was presented at ACM RACS 2024, the session was not published in the official proceedings. Therefore, this GitHub repository and the arXiv version serve as the official references.
 
@@ -26,7 +26,7 @@ Please use the following BibTeX entry if you use this dataset or paper in your w
   title={A Novel Dataset for Flood Detection Robust to Seasonal Changes in Satellite Imagery},
   author={Youngsun Jang and Dongyoun Kim and Chulwoo Pack and Kwanghee Won},
   year={2024},
-  note={Presented at ACM RACS 2024. Available at \url{https://github.com/youngsunjang/SDSU_MidWest_Flood_2019} and \url{https://arxiv.org/abs/XXXX.XXXX}},
+  note={Presented at ACM RACS 2024. Available at \url{https://github.com/youngsunjang/SDSU_MidWest_Flood_2019} and \url{https://arxiv.org/abs/2507.23193}},
 }
 ```
 
