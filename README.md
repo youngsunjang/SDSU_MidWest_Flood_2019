@@ -12,7 +12,7 @@ If you use this dataset in your research or project, please cite the following p
 > Presented at the **ACM RACS 2024** conference (Pompei, Italy, November 5–8, 2024)
 
 [Download PDF of the paper](./Paper.pdf)  
-[arXiv link (to be added)](https://arxiv.org/abs/2507.23193)
+[arXiv link](https://arxiv.org/abs/2507.23193)
 
 > **Note**: Although this paper was presented at ACM RACS 2024, the session was not published in the official proceedings. Therefore, this GitHub repository and the arXiv version serve as the official references.
 
