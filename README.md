@@ -61,6 +61,14 @@ https://huggingface.co/datasets/youngsun05/SDSU_MidWest_Flood_2019
 
 ---
 
+## Example Notebook
+
+A starter notebook is available for loading and visualizing the dataset:
+
+- [`load_and_visualize.ipynb`](./notebooks/load_and_visualize.ipynb): Load the dataset from Hugging Face, inspect image-mask pairs, visualize masks, and create simple overlays.
+
+---
+
 ## Dataset Contents
 
 - Images: true-color satellite imagery
